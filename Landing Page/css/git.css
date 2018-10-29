@@ -1,0 +1,41 @@
+body, html {
+  height: 100%;
+}
+.head{
+	color: white;
+	position: centre;
+	font-size: 50px;
+	padding-top: 50px;
+	margin-bottom: 6px;
+  font-style: normal;
+  line-height: 1.42857143
+}
+.head2{
+	color: white;
+	position: centre;
+	font-size: 20px;
+  font-style: normal;
+  line-height: 1.42857143
+  padding-bottom: 10px;
+}
+.bg { 
+ background-image:url( "bg.jpg");
+  /* Half height */
+  height: 100%;width: 100%;
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.navbar{
+	padding: 5px 5px 5px 5px;
+	position: centre;
+  width: 1200px;
+  left: 5%
+}
+.panel.panel-default{
+  position: centre;
+  width: 1200px;
+  left: 5%
+}
+
