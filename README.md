@@ -1,5 +1,5 @@
 # Web-Development
-Front-end Designs
+Front-end Designs---
 Technology Used: HTML5, CSS, Bootstrap, Jquery, Javascript
 
 Image Slider: Made for a Responsive Website using Bootstrap Carousel, Jquery , CSS and HTML5.
